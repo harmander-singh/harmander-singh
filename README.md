@@ -93,21 +93,16 @@ A small desktop tool that drafts business replies using AI models. The calls are
 
 <br/>
 
-## Activity
-
+## Contributions
+ 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harmander-singh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmander-singh&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top languages" />
-
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harmander-singh/harmander-singh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harmander-singh/harmander-singh/output/github-snake.svg" />
   <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/harmander-singh/harmander-singh/output/github-snake-dark.svg" width="100%" />
 </picture>
-
 </div>
-
 <br/>
 
 ## Get in touch
